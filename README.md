@@ -1,5 +1,8 @@
 # PuzzlePlatforms
 
-Simple multiplayer test project
-Based on GameDev.tv course
-Developed with Unreal Engine 4
+Simple multiplayer test project. Based on GameDev.tv course.  
+C++, Unreal Engine 4.  
+<br>
+Points of interest:
+* Authority and replication
+* FVector in-editor widgets
