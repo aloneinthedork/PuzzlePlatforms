@@ -6,3 +6,5 @@ C++, Unreal Engine 4.
 Points of interest:
 * Authority and replication
 * FVector in-editor widgets
+* Unreal console Exec commands
+* Using ServerTravel/ClientTravel to host and join games
